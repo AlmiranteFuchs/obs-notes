@@ -1,0 +1,1 @@
+* Especialista em alguma tecnologia --> Java, DBA, SAP

@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "88d3d26f6d4162aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "9764637a84467de6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8683f4254ef9ce52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Full Cycle/Software architecture fundamentals/Software Architecture.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software Architecture"
+            }
+          },
+          {
+            "id": "568ed929a28c4eb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Full Cycle/Software architecture fundamentals/Performance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Performance"
+            }
+          },
+          {
+            "id": "1a03dc0edbebd5c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Full Cycle/Software architecture fundamentals/Performance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Performance"
+            }
+          },
+          {
+            "id": "df639a805d0eee8e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "6d2c418eb1a08aef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Full Cycle/Software architecture fundamentals/Computational power.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Computational power"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3632869e2be55ea2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c581747cede10461",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61e5a057fa49eb88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d3cca2c7d9f45e33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6243e19bea2954bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a8be51b80cf8f5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ffb37942792cd04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c97fb8486f997feb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4afe79b8d69a6e30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "684d7ed4fcb17661",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "738820126796925f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "df639a805d0eee8e",
+  "lastOpenFiles": [
+    "Full Cycle/Software architecture fundamentals/Parallelism.md",
+    "Full Cycle/Software architecture fundamentals/Performance.md",
+    "Full Cycle/Software architecture fundamentals/Software Architecture.md",
+    "Full Cycle/Software architecture fundamentals/Solution Architecture.md",
+    "Full Cycle/Software architecture fundamentals/Structural features.md",
+    "Full Cycle/Software architecture fundamentals/Sustainability.md",
+    "Full Cycle/Software architecture fundamentals/Technological Architecture.md",
+    "Full Cycle/Software architecture fundamentals/Concurrency.md",
+    "Full Cycle/Software architecture fundamentals/Computational power.md",
+    "2025-02-11.md",
+    "Full Cycle/Software architecture fundamentals/Corporate Architecture.md",
+    "Full Cycle/Software architecture fundamentals/Cross-cutting features.md",
+    "Full Cycle/Software architecture fundamentals/Operational features.md",
+    "Full Cycle/Software architecture fundamentals",
+    "Full Cycle",
+    "Operational Software.md",
+    "Tecnological Architecture.md"
+  ]
+}

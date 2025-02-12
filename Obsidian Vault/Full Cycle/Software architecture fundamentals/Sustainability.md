@@ -1,0 +1,1 @@
+Desenvolver software custa caro, custo do software precisa se pagar, resolver um problema ou simplificar uma operação
