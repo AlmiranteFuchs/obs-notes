@@ -21,7 +21,7 @@ Preza por
 * Seu requisitos arquiteturais
 	* [[Performance]]
 	* Dados
-	* [[Escalabilidade]]
+	* [[Scalability]]
 	* Segurança
 	* Legal
 	* Audit

@@ -15,4 +15,5 @@
 	* Better logic ( Query, overhead, algorithms )
 	* [[Concurrency]], [[Parallelism]] 
 	* Better data bases
-	* Caching
+	* [[Caching]]
+	
